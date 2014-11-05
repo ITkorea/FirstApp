@@ -7,3 +7,4 @@ if (!copy($file, $newfile)) {
 	
 }
 ?> 
+1105추가연습
